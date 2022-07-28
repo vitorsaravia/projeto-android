@@ -133,6 +133,7 @@ header > p{
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.336);
+    padding-bottom: 30px;
 }
 nav{
     background-color:var(--cor5);
